@@ -1,4 +1,4 @@
 # Github-demo
 This is my first git repository.
 <br>
-Author - Ansh Gandhi
+Author - Ansh (Gandhi)
